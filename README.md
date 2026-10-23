@@ -124,7 +124,7 @@ I build systems that stay calm under load — a Chromium fork with full Web Stor
 | [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **portfolio**](https://krzky.github.io) | This site — plain HTML, CSS and JavaScript, no build step |
 | [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **arduino-sketches**](https://github.com/krzky/arduino-sketches) | ESP32 and Arduino sketches: smart power outlet, sensor loggers, bench tests |
 | [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **kaypro**](https://github.com/krzky/kaypro) | WinForms document library app in C# |
-| [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **coucou-autohide**](https://github.com/krzky/coucou-autohide) | PowerShell auto-hide behaviour for the Coucou overlay |
+| [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **coucou-autohide**](https://github.com/krzky/coucou-autohide) | Auto-hide helper for the Coucou overlay (installer, C# + PowerShell) |
 | [<img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/favicon.svg" width="16"> **fileshare**](https://github.com/krzky/fileshare) | A small self-hosted file sharing service |
 
 <div align="center">
