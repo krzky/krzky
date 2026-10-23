@@ -100,6 +100,20 @@ I build systems that stay calm under load — a Chromium fork with full Web Stor
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+**Agent Engineering**
+
+<img src="https://img.shields.io/badge/Memory-6B443D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Tools-3E63DD?style=flat-square&logo=zod&logoColor=white">
+<img src="https://img.shields.io/badge/Evals-B45309?style=flat-square&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Prompts-7C3AED?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-0F766E?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Deployment-475569?style=flat-square&logo=vercel&logoColor=white">
+
+</td>
+</tr>
 </table>
 
 ## Open source
