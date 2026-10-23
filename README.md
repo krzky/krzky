@@ -61,6 +61,8 @@ I build systems that stay calm under load — a Chromium fork with full Web Stor
 <img src="https://img.shields.io/badge/Workflows-6B7280?style=flat-square&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Observability-0F766E?style=flat-square&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/LiteLLM-849671?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20Agents-2E7D6F?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Voice-8B5CF6?style=flat-square&logo=elevenlabs&logoColor=white">
 
 </td>
 </tr>
@@ -113,7 +115,9 @@ I build systems that stay calm under load — a Chromium fork with full Web Stor
 
 <div align="center">
   <br>
+  <img src="https://raw.githubusercontent.com/krzky/krzky/main/assets/avatar.svg" alt="Kay — illustrated avatar" width="96">
+  <br>
   <a href="https://krzky.github.io"><img src="https://img.shields.io/badge/Get_in_touch-krz%40mail.uk-6b443d?style=for-the-badge&logo=minutemailer&logoColor=f7f1e8"></a>
   <br><br>
-  <sub>Built with plain HTML, CSS and JavaScript. <a href="https://krzky.github.io">See the site →</a></sub>
+  <sub>Profile hand-written in Markdown — <a href="https://krzky.github.io">see the site →</a></sub>
 </div>
